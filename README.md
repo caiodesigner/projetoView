@@ -9,9 +9,6 @@
 
 
 
-<a href="https://www.linkedin.com/in/caio-lucas-santos-silva/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34080482?v=4" width="100px;" alt=""/>
- <sub><b>Caio Lucas Santos Silva </b></sub></a> <a href="https://www.linkedin.com/in/caio-lucas-santos-silva/" title="Rocketseat"></a>
- <br />
+<p>Caio Lucas Santos Silva</p><a href="https://www.linkedin.com/in/caio-lucas-santos-silva/">Clique aqui para ver meu Linkedin</a>    
 
 
