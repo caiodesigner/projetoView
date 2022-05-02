@@ -8,8 +8,8 @@
 
 <h4>Instalação</h4>
 
-<p>Para executar o projeto você precisa do Node.JS, Vue.JS e do VueCli.JS</p>
-<a href="https://br.vuejs.org/v2/guide/installation.html">Clique para saber como instalar o Vue.JS</a>
+<p>Para executar o projeto você precisa do Node.JS, Vue.JS e do VueCli.JS</p> <br>
+<a href="https://br.vuejs.org/v2/guide/installation.html">Clique para saber como instalar o Vue.JS</a> <br>
 <a href="https://cli.vuejs.org/guide/installation.html">Clique para saber como instalar o VueCli.JS</a>
 <a href="https://nodejs.org/en/">Clique para saber como instalar o Vue.JS</a>
 
