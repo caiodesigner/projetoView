@@ -1,9 +1,9 @@
 <h1>
-    Teste Listra
+    Projeto View
 </h1>
 
 <h3>
-  Projeto criado com o objetivo de atender o teste técnico da empresa Listra. 
+  Projeto criado com o objetivo de realizar estudos com o ViewJS
 </h3>
 
 <br>
