@@ -1,9 +1,9 @@
 <h1>
-    Projeto View
+    Projeto Vue
 </h1>
 
 <h3>
-  Projeto criado com o objetivo de realizar estudos com o ViewJS
+  Projeto criado com o objetivo de realizar estudos com o VueJS
 </h3>
 
 <br>

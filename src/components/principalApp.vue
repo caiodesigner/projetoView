@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="retangulo-listra"><img src="../assets/listra-logo.png" alt=""></div>
+    <div class="retangulo"></div>
 
     <div class="container">
       <!-- Botões -->
@@ -166,7 +166,7 @@
 import api from '@/services/api.js';
 
 export default {
-  name: 'listraApp',
+  name: 'principalApp',
   data(){
     return{
       listacarros: []
@@ -184,8 +184,8 @@ export default {
 <!-- Adicionando o atributo "scoped" para limitar estes estilos apenas a este componente -->
 <style scoped>
 
-.retangulo-listra{
-  background-color: #7D28F7;
+.retangulo{
+  background-color: #f88804;
   padding: 0;
   margin: 0;
   padding: 15px;
@@ -200,12 +200,12 @@ export default {
 .btn-topo{
   margin: 5px;
   background-color: #fff;
-  border-color: #7D28F7;
+  border-color: #f88804;
   color: #000;
 }
 
 .btn-topo:hover{
-  background-color: #7D28F7;
+  background-color: #f88804;
 }
 
 .titulo{
@@ -226,7 +226,7 @@ export default {
   left: 38px;
   top: 191px;
 
-  background: #7D28F7;
+  background: #f88804;
   border-radius: 22px;
 }
 
@@ -299,7 +299,7 @@ h5{
 }
 
 #whatsapp{
-  background: #7D28F7;
+  background: #f88804;
   border-radius: 4px; 
   padding: 5px;
   width: 120px;
@@ -332,7 +332,7 @@ h5{
 }
 
 .icon-social{
-  background-color: #7D28F7;
+  background-color: #f88804;
   align-items: center;
   text-align: center;
   display: inline;
@@ -356,7 +356,7 @@ h5{
   text-decoration: none;
   font-size: 14px;
   line-height: 16px;
-  color: #7D28F7;
+  color: #f88804;
 }
 
 #link-mais img{

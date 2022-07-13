@@ -1,15 +1,15 @@
 <template>
   <!--<img alt="Vue logo" src="./assets/logo.png">-->
-  <listraApp msg="Welcome to Your Vue.js App"/>
+  <principalApp msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
-import listraApp from './components/listraApp.vue'
+import principalApp from './components/principalApp.vue'
 
 export default {
   name: 'App',
   components: {
-    listraApp
+    principalApp
   }
 }
 </script>
